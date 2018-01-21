@@ -16,7 +16,7 @@ Currently - the repository is under initial construction and focuses on discussi
 If you are a 'member' of globalframes **already**, please continue with the following steps:
  - register with GitHub, or log in if you are already registered
  - pm @geleeroyale on riot to be added to the [globalframes project repository](https://github.com/globalframes/)
- - download [Zenhub](https://www.zenhub.com/extension) so you can see the [planning board](https://github.com/globalframes/around-the-block/boards)!
- - voila! you are done! Access the [planning board](https://github.com/globalframes/around-the-block/boards)
+ - download [Zenhub](https://www.zenhub.com/extension) so you can see the [planning board](https://github.com/globalframes/around-the-block#boards?repos=118348899)!
+ - voila! you are done! Access the [planning board](https://github.com/globalframes/around-the-block#boards?repos=118348899)
 
  
