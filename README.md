@@ -4,7 +4,7 @@
 ## Basic explanation
 This is not a software, but a project repository - for data collection, open contribution and task management. 
 
-**The main goal is to use distributed software and crowdsourced manpower to facilitate a new kind of video production model.**
+The main goal is to: use distributed software and crowdsourced manpower to **facilitate a new kind of video production model.**
 
 ## Join GLOBAL FRAMES
 If your are not a 'member' yet - don't worry - we are a very open and friendly community.
